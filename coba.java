@@ -7,6 +7,7 @@ public class ProjectPertama {
         // TODO code application logic here
         System.out.println("Percobaan Pertama");
         System.out.println("Nama Saya Dian");
+        System.out.println("Saya Belajar Algoritma");
     }
     
 }
